@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Bison symbols</string>
+	<key>scope</key>
+	<string>support.function.bison</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/:.*//</string>
+	</dict>
+	<key>uuid</key>
+	<string>4D14C85F-0285-4546-B7C8-5FE812A8172E</string>
+</dict>
+</plist>

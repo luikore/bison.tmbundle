@@ -87,6 +87,12 @@
 				</dict>
 				<dict>
 					<key>match</key>
+					<string>^\b[a-z]\w*</string>
+					<key>name</key>
+					<string>support.function.bison</string>
+				</dict>
+				<dict>
+					<key>match</key>
 					<string>\b_\w*</string>
 					<key>name</key>
 					<string>meta.preprocessor.c.supportrule.bison</string>
