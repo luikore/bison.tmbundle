@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>y</string>
+		<string>ypp</string>
+		<string>ym</string>
 	</array>
 	<key>name</key>
 	<string>Bison</string>
