@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+
+print ';'
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>;</string>
+	<key>name</key>
+	<string>Keep indent when input ;</string>
+	<key>outputLocation</key>
+	<string>replaceSelection</string>
+	<key>scope</key>
+	<string>source.bison</string>
+	<key>uuid</key>
+	<string>8815CF60-7DE5-4809-A4FB-80D8F8950969</string>
+</dict>
+</plist>
